@@ -10,9 +10,9 @@
 <br>
 
 ### My Portfolio & CV
-[portfolio](https://cskaranchow.github.io/portfolio)
+[portfolio](https://cskaranchow.github.io/Portfolio)
 
-[Resume](https://cskaranchow.github.io/cv-resume)
+[Resume](https://github.com/CSKaranChow/Portfolio/blob/main/resume/blue%20professional%20modern%20CV%20resume.pdf)
 
 <br>
 
