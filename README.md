@@ -12,7 +12,7 @@
 ### My Portfolio & CV
 [portfolio](https://cskaranchow.github.io/portfolio)
 
-[Resume](https://cskaranchow.github.io/Portfolio/cv-resume)
+[Resume](https://cskaranchow.github.io/cv-resume)
 
 <br>
 
